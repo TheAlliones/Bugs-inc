@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: beecebdfb56b5b84b9acff6513a5e9a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ladybug: {instanceID: 0}
+  - grasshopper: {instanceID: 0}
+  - dung_beetle: {instanceID: 0}
+  - stag_beetle: {instanceID: 0}
+  - water_strider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
